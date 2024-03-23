@@ -37,6 +37,6 @@ Please ensure that your code follows the project's coding conventions and includ
 
 
 ## Contact
-If you have any questions or suggestions regarding the project, feel free to contact [Mohammad Haseeb] at [Haseebsofi25@gmail.com].
+If you have any questions or suggestions regarding the project, feel free to contact Mohammad Haseeb at [Haseebsofi25@gmail.com].
 
 Thank you for your interest in the Java Terminal Car Rental System! 🚗💻
