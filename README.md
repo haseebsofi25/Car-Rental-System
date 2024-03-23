@@ -35,10 +35,8 @@ Contributions are welcome! If you'd like to contribute to the project, feel free
 
 Please ensure that your code follows the project's coding conventions and includes relevant documentation.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-If you have any questions or suggestions regarding the project, feel free to contact [Your Name] at [your_email@example.com].
+If you have any questions or suggestions regarding the project, feel free to contact [Mohammad Haseeb] at [Haseebsofi25@gmail.com].
 
 Thank you for your interest in the Java Terminal Car Rental System! 🚗💻
